@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "picoCTF - genarl skills 2/Based.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Readme"
+              "title": "Based"
             }
           }
         ]
@@ -171,6 +171,8 @@
   "active": "5c6bfa0dd64742e1",
   "lastOpenFiles": [
     "Readme.md",
-    "Bienvenido.md"
+    "picoCTF - genarl skills 2/Based.md",
+    "Bienvenido.md",
+    "picoCTF - genarl skills 2"
   ]
 }
