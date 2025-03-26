@@ -4,7 +4,8 @@ Can you break into this super secure portal? `https://jupiter.challenges.picoct
 
 
 
-
+Detalles: ir al link proporcionado, ir al codigo fuente 
+el codigo fuente esta acontinuacion 
 
   function verify() {
     checkpass = document.getElementById("pass").value;
@@ -33,3 +34,4 @@ Can you break into this super secure portal? `https://jupiter.challenges.picoct
     
   }
 
+armar la bandera
