@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF web 2/Scavenger Hunt.md",
+                "file": "Tarea 2 - Web/SQLiLite.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scavenger Hunt"
+              "title": "SQLiLite"
             }
           }
         ]
@@ -170,9 +170,25 @@
   },
   "active": "afb8a14ed0a3f17b",
   "lastOpenFiles": [
+    "Tarea 2 - Web/Secrets.md",
+    "Tarea 2 - Web/SQLiLite.md",
+    "Tarea 2 - Web/Roboto Sans.md",
+    "Tarea 2 - Web/Power Cookie.md",
+    "Tarea 2 - Web/WebDecode.md",
+    "Tarea 2 - Web/Unminify.md",
+    "Tarea 2 - Web/Local Authority.md",
+    "Tarea 2 - Web/IntroToBurp.md",
+    "Tarea 2 - Web/Inspect HTML.md",
+    "Tarea 2 - Web/Includes.md",
+    "Actividad 10 - picoCTF Web 3/Irish-Name-Repo 1.md",
+    "Tarea 2 - Web",
+    "Actividad 10 - picoCTF Web 3/More SQLi.md",
+    "Actividad 10 - picoCTF Web 3/JaWT Scratchpad.md",
+    "Sin título.md",
+    "picoCTF web 2/Scavenger Hunt.md",
+    "Actividad 10 - picoCTF Web 3",
     "picoCTF web 2/Get aHEAD.md",
     "picoCTF web 2/Cookies.md",
-    "picoCTF web 2/Scavenger Hunt.md",
     "picoCTF web/where are the robots.md",
     "picoCTF web 2",
     "picoCTF web/picobrowser.md",
@@ -193,8 +209,6 @@
     "inspector.md",
     "picoCTF web",
     "picoCTF - genarl skills 2/big-zip.md",
-    "picoCTF - genarl skills 2/Based.md",
-    "Bienvenido.md",
     "picoCTF - genarl skills 2"
   ]
 }
