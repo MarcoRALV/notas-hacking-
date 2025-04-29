@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "15e53e4fbccdc7bb",
+        "id": "8e6e29a13de4f921",
         "type": "tabs",
         "children": [
           {
-            "id": "9de37ef0626243ec",
+            "id": "4d763b0a08e9edd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primer Examen Parcial - Parte 2 - Web/SSTI1.md",
+                "file": "Forensic 2/WhitePages.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SSTI1"
+              "title": "WhitePages"
             }
           }
         ]
@@ -168,8 +168,21 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9de37ef0626243ec",
+  "active": "4d763b0a08e9edd4",
   "lastOpenFiles": [
+    "Forensic 2/shark on wire 2.md",
+    "Forensic 2/m00nwalk.md",
+    "Forensic 2/like1000.md",
+    "Forensic 2/c0rrupt.md",
+    "Forensic 2/WhitePages.md",
+    "Forensic 3/Matryoshka doll.md",
+    "Forensic 3/WebNet1.md",
+    "Forensic 3/WebNet0.md",
+    "Forensic 3/tunn3l v1s10n.md",
+    "Forensic 3/MacroHard WeakEdge.md",
+    "Forensic 3",
+    "Forensic 2",
+    "Primer Examen Parcial - Parte 2 - Web/SSTI1.md",
     "Primer Examen Parcial - Parte 2 - Web/SSTI2.md",
     "Primer Examen Parcial - Parte 2 - Web/WebSockFish.md",
     "Tarea 2 - Web/Secrets.md",
@@ -185,19 +198,8 @@
     "Primer Examen Parcial - Parte 1 - General Skills/flag_shop.md",
     "Primer Examen Parcial - Parte 1 - General Skills/HashingJobApp.md",
     "Primer Examen Parcial - Parte 1 - General Skills/FANTASY CTF.md",
-    "Primer Examen Parcial - Parte 1 - General Skills/dont-you-love-banners.md",
-    "Primer Examen Parcial - Parte 2 - Web/Bookmarklet.md",
-    "Primer Examen Parcial - Parte 1 - General Skills/Specialer.md",
-    "Primer Examen Parcial - Parte 2 - Web/Java Code Analysis!.md",
-    "Primer Examen Parcial - Parte 2 - Web/n0s4n1ty 1.md",
-    "Primer Examen Parcial - Parte 2 - Web/head-dump.md",
-    "Primer Examen Parcial - Parte 2 - Web/Cookie Monster Secret Recipe.md",
-    "Primer Examen Parcial - Parte 2 - Web/findme.md",
-    "Primer Examen Parcial - Parte 2 - Web/SSTI1.md",
-    "Primer Examen Parcial - Parte 2 - Web/SQL Direct.md",
     "Primer Examen Parcial - Parte 1 - General Skills",
     "Primer Examen Parcial - Parte 2 - Web",
-    "Forensic 1/So Meta.md",
     "Forensic 1",
     "Tarea 2 - Web",
     "Actividad 10 - picoCTF Web 3",
