@@ -11,14 +11,10 @@
             "id": "4d763b0a08e9edd4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Forensic 2/WhitePages.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "WhitePages"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -168,18 +164,18 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4d763b0a08e9edd4",
+  "active": "438e3d908087f22b",
   "lastOpenFiles": [
+    "Forensic 3/WebNet0.md",
+    "Forensic 3/tunn3l v1s10n.md",
+    "Forensic 3/Matryoshka doll.md",
+    "Forensic 3/MacroHard WeakEdge.md",
+    "Forensic 2/WhitePages.md",
     "Forensic 2/shark on wire 2.md",
     "Forensic 2/m00nwalk.md",
     "Forensic 2/like1000.md",
     "Forensic 2/c0rrupt.md",
-    "Forensic 2/WhitePages.md",
-    "Forensic 3/Matryoshka doll.md",
     "Forensic 3/WebNet1.md",
-    "Forensic 3/WebNet0.md",
-    "Forensic 3/tunn3l v1s10n.md",
-    "Forensic 3/MacroHard WeakEdge.md",
     "Forensic 3",
     "Forensic 2",
     "Primer Examen Parcial - Parte 2 - Web/SSTI1.md",
