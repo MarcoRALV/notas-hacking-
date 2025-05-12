@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tarea 3 - Forensic/St3g0.md",
+                "file": "picoCTF Crypto - Parte 1/interencdec.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "St3g0"
+              "title": "interencdec"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 259.5
   },
   "right": {
     "id": "a9f77bfd7ab3804d",
@@ -170,8 +170,18 @@
   },
   "active": "0bffa213b2cb28c7",
   "lastOpenFiles": [
-    "Tarea 3 - Forensic/Redaction gone wrong.md",
+    "picoCTF Crypto - Parte 1/Tapping.md",
+    "picoCTF Crypto - Parte 1/Easy 1.md",
+    "picoCTF Crypto - Parte 1/waves over lambda.md",
+    "picoCTF Crypto - Parte 1/The numbers.md",
+    "picoCTF Crypto - Parte 1/Cesar.md",
+    "picoCTF Crypto - Parte 1/13.md",
+    "picoCTF Crypto - Parte 1/interencdec.md",
+    "picoCTF Crypto - Parte 1/la cifra de.md",
+    "Pasted image 20250511175217.png",
     "Tarea 3 - Forensic/St3g0.md",
+    "picoCTF Crypto - Parte 1",
+    "Tarea 3 - Forensic/Redaction gone wrong.md",
     "Tarea 3 - Forensic/hideme.md",
     "Pasted image 20250511141928.png",
     "Tarea 3 - Forensic/flags are stepic.md",
@@ -189,24 +199,14 @@
     "Forensic 4/Milkslap.md",
     "Forensic 4",
     "picoCTF - genarl skills 2/Forensic 4/Operation Oni.md",
-    "picoCTF - genarl skills 2/Forensic 4/Sleuthkit Intro.md",
-    "picoCTF - genarl skills 2/Forensic 4/Sleuthkit Apprentice.md",
-    "picoCTF - genarl skills 2/Forensic 4/Operation Orchid.md",
-    "picoCTF - genarl skills 2/Forensic 4/Milkslap.md",
-    "picoCTF - genarl skills 2/Forensic 4/Disk, disk, sleuth!.md",
     "picoCTF - genarl skills 2/Forensic 4",
     "Tarea 3 - Forensic",
-    "Forensic 3/tunn3l v1s10n.md",
-    "Forensic 3/WebNet0.md",
-    "Forensic 3/WebNet1.md",
-    "Forensic 3/Matryoshka doll.md",
     "Forensic 3",
     "Forensic 3",
     "Forensic 2",
     "Primer Examen Parcial - Parte 1 - General Skills",
     "Primer Examen Parcial - Parte 2 - Web",
     "Forensic 1",
-    "Tarea 2 - Web",
     "Pasted image 20250326105315.png",
     "Pasted image 20250326105240.png",
     "Pasted image 20250326103934.png",
@@ -214,7 +214,6 @@
     "Pasted image 20250326103348.png",
     "Pasted image 20250325105221.png",
     "Pasted image 20250324132603.png",
-    "Pasted image 20250324132523.png",
-    "Pasted image 20250324132427.png"
+    "Pasted image 20250324132523.png"
   ]
 }
