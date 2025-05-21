@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF Crypto - Parte 1/interencdec.md",
+                "file": "picoCTF Crypyo - Parte 2/rsa-pop-quiz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "interencdec"
+              "title": "rsa-pop-quiz"
             }
           }
         ]
@@ -170,13 +170,15 @@
   },
   "active": "0bffa213b2cb28c7",
   "lastOpenFiles": [
+    "picoCTF Crypto - Parte 1/interencdec.md",
+    "picoCTF Crypyo - Parte 2/rsa-pop-quiz.md",
+    "picoCTF Crypyo - Parte 2",
     "picoCTF Crypto - Parte 1/Tapping.md",
     "picoCTF Crypto - Parte 1/Easy 1.md",
     "picoCTF Crypto - Parte 1/waves over lambda.md",
     "picoCTF Crypto - Parte 1/The numbers.md",
     "picoCTF Crypto - Parte 1/Cesar.md",
     "picoCTF Crypto - Parte 1/13.md",
-    "picoCTF Crypto - Parte 1/interencdec.md",
     "picoCTF Crypto - Parte 1/la cifra de.md",
     "Pasted image 20250511175217.png",
     "Tarea 3 - Forensic/St3g0.md",
@@ -206,7 +208,6 @@
     "Forensic 2",
     "Primer Examen Parcial - Parte 1 - General Skills",
     "Primer Examen Parcial - Parte 2 - Web",
-    "Forensic 1",
     "Pasted image 20250326105315.png",
     "Pasted image 20250326105240.png",
     "Pasted image 20250326103934.png",
